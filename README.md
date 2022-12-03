@@ -1,1 +1,18 @@
-# SpacexLaunches
+# Space X Launch Analysis 
+
+<img src="">
+
+## Introduction
+
+SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore, if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. The goal of the project is to create a machine learning pipeline to predict if the first stage will land successfully.
+
+## Table of Contents
+1. [**Python Data Collection with API**]()
+2. [**Python Data Collection with Web Scraping**]()
+3. [**Python Data Wrangling**]()
+4. [**Data Analysis with SQL**]()
+5. [**Data Analysis with Visulaizations**]()
+6. [**Interactive Map Analytics with Folium**]()
+7. [**Python Dashboard Application**]()
+8. [**Sci-Kit Learn Predictive Analysis**]()
+9. [**Final Presentation**]()
